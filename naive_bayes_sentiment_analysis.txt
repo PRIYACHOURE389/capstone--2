@@ -1,0 +1,18 @@
+Naive Bayes Accuracy: 0.9387
+
+Classification Report (Naive Bayes):
+              precision    recall  f1-score   support
+
+    Negative       0.00      0.00      0.00        13
+     Neutral       0.00      0.00      0.00        36
+    Positive       0.94      1.00      0.97       751
+
+    accuracy                           0.94       800
+   macro avg       0.31      0.33      0.32       800
+weighted avg       0.88      0.94      0.91       800
+
+
+Confusion Matrix (Naive Bayes):
+[[  0   0  13]
+ [  0   0  36]
+ [  0   0 751]]

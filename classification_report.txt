@@ -1,0 +1,21 @@
+Evaluation Metrics:
+Precision: 0.9601
+Recall: 0.9578
+F1-Score: 0.9572
+AUC-ROC: 0.9914
+
+Classification Report:
+              precision    recall  f1-score   support
+
+    Negative       0.96      1.00      0.98       748
+     Neutral       0.92      0.99      0.96       733
+    Positive       1.00      0.88      0.94       769
+
+    accuracy                           0.96      2250
+   macro avg       0.96      0.96      0.96      2250
+weighted avg       0.96      0.96      0.96      2250
+
+Confusion Matrix:
+[[748   0   0]
+ [  2 728   3]
+ [ 29  61 679]]

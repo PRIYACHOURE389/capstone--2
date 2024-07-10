@@ -1,0 +1,11 @@
+Ensemble Model Accuracy: 0.9463
+Classification Report (Ensemble Model):
+              precision    recall  f1-score   support
+
+           0       0.47      0.69      0.56        13
+           1       0.56      0.25      0.35        36
+           2       0.97      0.98      0.97       751
+
+    accuracy                           0.95       800
+   macro avg       0.67      0.64      0.63       800
+weighted avg       0.94      0.95      0.94       800
