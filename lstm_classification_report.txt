@@ -1,13 +1,13 @@
 Classification Report (LSTM):
               precision    recall  f1-score   support
 
-           0       0.00      0.00      0.00        13
+           0       1.00      0.15      0.27        13
            1       0.00      0.00      0.00        36
            2       0.94      1.00      0.97       751
 
     accuracy                           0.94       800
-   macro avg       0.31      0.33      0.32       800
-weighted avg       0.88      0.94      0.91       800
+   macro avg       0.65      0.38      0.41       800
+weighted avg       0.90      0.94      0.91       800
 
 
 Confusion Matrix (LSTM):

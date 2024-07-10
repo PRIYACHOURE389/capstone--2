@@ -1,11 +1,11 @@
-Neural Network Accuracy: 0.9475
+Neural Network Accuracy: 0.9425
 Classification Report (Neural Network):
               precision    recall  f1-score   support
 
            0       0.90      0.69      0.78        13
-           1       0.41      0.25      0.31        36
-           2       0.96      0.99      0.97       751
+           1       0.39      0.36      0.38        36
+           2       0.97      0.97      0.97       751
 
-    accuracy                           0.95       800
-   macro avg       0.76      0.64      0.69       800
-weighted avg       0.94      0.95      0.94       800
+    accuracy                           0.94       800
+   macro avg       0.75      0.68      0.71       800
+weighted avg       0.94      0.94      0.94       800
